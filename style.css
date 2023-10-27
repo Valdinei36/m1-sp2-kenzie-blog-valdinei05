@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    display:block;
+    margin: 1px;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  div{
+    background: burlywood;
+    display:block;
+    text-align: center;
+    margin: 1px;
+    border: 3px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  fieldset{
+    background-color: beige;
+    margin: 3px;
+    border: 5px; 
+    padding: 5px;
+    border-radius: 5px;
+  }
+  input{
+    border:3px solid;
+    border-radius: 5px;
+  }
